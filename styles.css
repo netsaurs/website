@@ -133,6 +133,7 @@ footer {
     }
 
     .contact-info a {
+        font-size: 0.7rem;
         width: 50%;
         text-align: center;
     }
