@@ -179,6 +179,14 @@ footer {
         width: 95%;
     }
 
+    main {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 2rem 1rem;
+        gap: 1rem;
+    }
+
     #services, #team, #testimonials, #blog {
         width: 95%;
     }
